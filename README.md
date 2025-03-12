@@ -12,7 +12,7 @@ This Streamlit application allows users to check the strength of their passwords
 
 ## How to Use
 
-1. Open App
+1. Open [App](https://password-strength-meter-6601.streamlit.app/)
 2.  Open your web browser to the displayed URL.
 3.  Enter your password in the input field and click "Check My Password's Strength."
 4.  Review the feedback provided by the application.
@@ -39,6 +39,8 @@ Here is a screenshot of the application.
 
 (If you have a screenshot of your app, replace `icon.png` with the actual image file.)
 
+## Deployment Link:
+https://password-strength-meter-6601.streamlit.app/
 ## Security Note
 
 This application is intended for educational purposes. Always prioritize password security and use strong, unique passwords for your online accounts.
